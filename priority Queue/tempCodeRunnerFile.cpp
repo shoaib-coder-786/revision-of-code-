@@ -1,0 +1,10 @@
+  pq.insert(10);
+      pq.insert(8);
+      pq.insert(9);
+      pq.insert(5);
+      pq.insert(7);
+      pq.insert(2);
+      pq.insert(0);
+      pq.insert(11);
+      pq.insert(12);
+      pq.insert(13);
